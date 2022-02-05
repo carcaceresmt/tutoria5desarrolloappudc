@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Tutoria520212liga/app/src/main/res/layout/activity_acerca.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Tutoria520212liga/app/src/main/res/layout/activity_heroe.xml" value="0.2609375" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Tutoria520212liga/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Tutoria520212liga/app/src/main/res/layout/footer.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Tutoria520212liga/app/src/main/res/layout/header.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/Tutoria520212liga/app/src/main/res/layout/heroe_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Tutoria520212liga/app/src/main/res/menu/menu1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Tutoria520212liga/app/src/main/res/menu/menu2.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

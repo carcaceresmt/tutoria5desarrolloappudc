@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Liga Justicia DC</string>
+    <string name="eacerca">Director</string>
+    <string name="esalir">Salir</string>
+    <string name="eatras">Volver</string>
+    <string name="biografia">Zachary "Zack" Edward Snyder, conocido generalmente como Zack Snyder, es un director de  cine, productor, guionista y director de fotografía estadounidense.       Debutó en el cine en 2004 con una nueva versión de la película de terror de 1978 El amanecer de los muertos.
+     </string>
 </resources>
